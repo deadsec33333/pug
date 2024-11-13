@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Remembering-Doug-the-Pug-The-Beloved-Therapy-Dog-and-Friend",
-        "destination": "/Remembering-Doug-the-Pug-The-Beloved-Therapy-Dog-and-Friend.html"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/Norbert-the-Therapy-Dog-A-Tiny-Hero-Who-Touched-Countless-Hearts",
+      "destination": "/Norbert-the-Therapy-Dog-A-Tiny-Hero-Who-Touched-Countless-Hearts.html"
+    }
+  ]
+}
